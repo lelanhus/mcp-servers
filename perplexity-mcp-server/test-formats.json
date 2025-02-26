@@ -1,0 +1,45 @@
+{
+  "formats": [
+    {
+      "name": "tool_result",
+      "data": {
+        "tool_result": {
+          "type": "perplexity_search",
+          "content": "This is a search result from Perplexity."
+        }
+      }
+    },
+    {
+      "name": "simple_result",
+      "data": {
+        "result": "This is a search result from Perplexity."
+      }
+    },
+    {
+      "name": "content_only",
+      "data": {
+        "content": "This is a search result from Perplexity."
+      }
+    },
+    {
+      "name": "results_array",
+      "data": {
+        "results": [
+          {
+            "title": "Test Result",
+            "url": "https://example.com",
+            "content": "This is a search result from Perplexity."
+          }
+        ]
+      }
+    },
+    {
+      "name": "nested_content",
+      "data": {
+        "response": {
+          "content": "This is a search result from Perplexity."
+        }
+      }
+    }
+  ]
+}

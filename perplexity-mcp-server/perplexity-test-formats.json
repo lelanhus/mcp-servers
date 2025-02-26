@@ -1,0 +1,19 @@
+{
+  "simpleResult": {
+    "result": "The capital of France is **Paris**. It is not only the capital but also the largest city in France, serving as the country's main cultural and economic center[2][3][5]. Paris has been the capital since its liberation in 1944, following a brief period during World War II when the capital was temporarily moved to Vichy[4]. The city is renowned for its historical landmarks, cultural institutions, and its status as a global hub for fashion, cuisine, and art[1][5]."
+  },
+  "contentResult": {
+    "content": "The capital of France is **Paris**. It is not only the capital but also the largest city in France, serving as the country's main cultural and economic center[2][3][5]. Paris has been the capital since its liberation in 1944, following a brief period during World War II when the capital was temporarily moved to Vichy[4]. The city is renowned for its historical landmarks, cultural institutions, and its status as a global hub for fashion, cuisine, and art[1][5]."
+  },
+  "structuredResult": {
+    "tool_result": {
+      "type": "perplexity_search",
+      "content": "The capital of France is **Paris**. It is not only the capital but also the largest city in France, serving as the country's main cultural and economic center[2][3][5]. Paris has been the capital since its liberation in 1944, following a brief period during World War II when the capital was temporarily moved to Vichy[4]. The city is renowned for its historical landmarks, cultural institutions, and its status as a global hub for fashion, cuisine, and art[1][5]."
+    }
+  },
+  "rawResult": {
+    "query": "What is the capital of France?",
+    "results": [],
+    "answer": "The capital of France is **Paris**. It is not only the capital but also the largest city in France, serving as the country's main cultural and economic center[2][3][5]. Paris has been the capital since its liberation in 1944, following a brief period during World War II when the capital was temporarily moved to Vichy[4]. The city is renowned for its historical landmarks, cultural institutions, and its status as a global hub for fashion, cuisine, and art[1][5]."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "45f4d31b-d2aa-4fc3-b1b4-4e162c453b38",
+  "model": "sonar",
+  "created": 1740543588,
+  "usage": {
+    "prompt_tokens": 12,
+    "completion_tokens": 180,
+    "total_tokens": 192
+  },
+  "citations": [
+    "https://clocks.world/time/france/paris/",
+    "https://time.is/France?v=1.0.19",
+    "https://time.savvycal.com/worldclock/France/Paris",
+    "http://www.timeandzone.com/place?loc=Paris%2C+France&lat=48.85661400000001&lon=2.3522219000000177&hl=en",
+    "https://www.worldtimebuddy.com/france-paris"
+  ],
+  "object": "chat.completion",
+  "choices": [
+    {
+      "index": 0,
+      "finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "The current time in Paris, France, is not explicitly stated in the search results, but as of the last update, Paris was observing Central European Time (CET), which is UTC+1. Paris is currently in standard time and will transition to Central European Summer Time (CEST) on March 29, 2025, when the clocks will move forward by one hour[1][2][3].\n\nTo find the exact current time, you can check a real-time world clock or time conversion website. As of February 25, 2025, Paris was at 1:00 AM CET[3]. \n\nIf you need the precise current time, you might want to visit a site like [time.is](https://time.is/France) or [clocks.world](https://clocks.world/time/france/paris/) for the most up-to-date information."
+      },
+      "delta": {
+        "role": "assistant",
+        "content": ""
+      }
+    }
+  ]
+}

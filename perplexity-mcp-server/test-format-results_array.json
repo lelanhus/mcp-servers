@@ -1,0 +1,9 @@
+{
+  "results": [
+    {
+      "title": "Test Result",
+      "url": "https://example.com",
+      "content": "This is a search result from Perplexity."
+    }
+  ]
+}
